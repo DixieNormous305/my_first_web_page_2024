@@ -8,4 +8,6 @@ This is the repository of the activity III.
 - Added footer and header
 - Added images for content section.
 - Added content and menu
+- Tried different paths so that the picture in image folder is displayed
+- Changed Colors
 
