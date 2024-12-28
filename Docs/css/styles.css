@@ -262,48 +262,76 @@ footer a:hover {
     margin: 20px 0;
 }
 
-
-form {
-    display: flex;
-    flex-direction: column;
-    gap: 10px;
-    max-width: 400px;
-    margin: auto;
-}
-form input, form textarea, form button {
-    padding: 10px;
-    border: 1px solid #ccc;
-    border-radius: 5px;
+/* Styles for net.html */
+.net-section {
+    background: #222222;
+    color: #ffffff;
+    text-align: center;
+    padding: 50px;
+    border-radius: 15px;
+    margin: 20px;
+    box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.7);
 }
 
+.net-section h1 {
+    color: #ff0000;
+    margin-bottom: 20px;
+}
 
-table {
+/* Styles for contact.html */
+.contact-form {
+    background: #1a1a1a;
+    color: #ffffff;
+    padding: 40px;
+    border-radius: 10px;
+    box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.7);
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.contact-form label {
+    font-size: 1rem;
+    color: #ffffff;
+}
+
+.contact-form input, .contact-form textarea {
     width: 100%;
-    border-collapse: collapse;
-    margin: 20px auto;
-}
-
-th, td {
-    border: 1px solid #ccc;
     padding: 10px;
-    text-align: left;
+    margin: 10px 0;
+    border: 1px solid #333;
+    border-radius: 5px;
+    background: #333;
+    color: #ffffff;
 }
 
-th {
-    background-color: #f4f4f4;
+/* Styles for degree.html */
+.degree-section {
+    background: #121212;
+    color: #ffffff;
+    padding: 60px;
+    border-radius: 15px;
+    text-align: center;
+    margin: 20px;
+    box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.7);
 }
 
-main ul {
-    list-style: none;
-    padding: 0;
+.degree-section h1 {
+    color: #ff0000;
+    margin-bottom: 20px;
 }
-main ul li {
-    margin: 5px 0;
+
+/* Styles for fce.html */
+.fce-section {
+    background: #181818;
+    color: #ffffff;
+    padding: 60px;
+    border-radius: 15px;
+    text-align: center;
+    margin: 20px;
+    box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.7);
 }
-main ul li a {
-    color: #007BFF;
-    text-decoration: none;
-}
-main ul li a:hover {
-    text-decoration: underline;
+
+.fce-section h1 {
+    color: #ff0000;
+    margin-bottom: 20px;
 }
