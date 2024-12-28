@@ -1,6 +1,6 @@
 # my_first_web_page_2024
 
-This is the repository of the activity III.
+This is the repository of the activity III - IV and Final piece.
 
 ## Actions activity iii
 
@@ -17,3 +17,11 @@ This is the repository of the activity III.
 - Added styles. css file in css folder
 - Added styles.css in the index file as link
 - Added about.html page and modify links and styles of the header menu.
+
+## Final Project
+
+- Added Topic.html
+- Sorted structure
+- Added images to Topic.html
+Problem: Images were different sizes and had to make a new css class to apply to those larger images
+- 
