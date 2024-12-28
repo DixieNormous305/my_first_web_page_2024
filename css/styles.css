@@ -190,3 +190,42 @@ footer a:hover {
     color: #dddddd;
     line-height: 1.6;
 }
+
+
+.topic-section {
+    background: #1a1a1a;
+    color: #ffffff;
+    text-align: center;
+    padding: 60px 40px;
+    border-radius: 15px;
+    margin: 20px;
+    box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.7);
+}
+
+.topic-section h1, .topic-section h2 {
+    color: #ff0000;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.topic-section p {
+    font-size: 1.2rem;
+    color: #dddddd;
+    line-height: 1.8;
+    max-width: 900px;
+    margin: 10px auto;
+}
+
+.topic-section ul {
+    list-style: disc;
+    padding-left: 40px;
+    text-align: left;
+    max-width: 900px;
+    margin: 30px auto;
+}
+
+.topic-section ul li {
+    margin-bottom: 15px;
+    color: #dddddd;
+    line-height: 1.6;
+}
