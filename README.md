@@ -28,4 +28,4 @@ Problem: Images were different sizes and had to make a new css class to apply to
 - Created CSS sections for these new files
 Problem: link to CSS file had to be changed because when structure was changed, The path to the styles.css file had also change in relation to the pages in Public.
 Note: Trying to fix these mistakes caused too many commits and push, should find a way to test the new changes withought having to completely commit them. 
-- 
+- Added first version of content for degree.html
