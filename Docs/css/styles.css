@@ -169,12 +169,11 @@ footer a:hover {
     margin-bottom: 20px;
 }
 .index-image {
-    width: 100%;
+    width: auto;
     max-width: 600px; 
     height: auto; 
-    margin: 20px 0;
-    border-radius: 10px; 
-    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.5); 
+    margin: auto;
+    border-radius: auto;
 }
 .about-section p {
     font-size: 1.2rem;
