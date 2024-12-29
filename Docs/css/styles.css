@@ -348,13 +348,12 @@ footer a:hover {
 }
 
 .fce-section {
-    background: #181818;
+    background: #1a1a1a;
     color: #ffffff;
-    padding: 60px;
+    text-align: Left;
+    padding: 60px 40px;
     border-radius: 15px;
-    text-align: left;
     margin: 20px;
-    box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.7);
 }
 
 .fce-section h1 {
