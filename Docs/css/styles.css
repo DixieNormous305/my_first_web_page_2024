@@ -347,6 +347,28 @@ footer a:hover {
     color: #ff0000;
 }
 
+.degree table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 0 auto;
+    background-color: #f9f9f9;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.intro th,
+.intro td {
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: center;
+}
+
+.intro th {
+    background-color: #007BFF;
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
 .fce-section {
     background: #1a1a1a;
     color: #ffffff;
